@@ -1,6 +1,9 @@
 # Degrees of Separation
 Relate actors to each other through common movies and TV shows! Use graph theory to calculate the shortest path between two actors and more!
 
+Noah Schnapp (the Stranger Thing's actor) is from my hometown, so a lot of my analysis featured him. In the graph below (created with matplotlib), I compare Kevin Bacon's centrality with that of Noah Schnapp. Bacon's average degree of separation was approximately 4.2 while Schnapp's was a bit over 4.4.
+![Noah Schnapp vs Kevin Bacon's Centrality](https://github.com/adam-wasserman/Degrees_of_Separation/blob/main/Graphs/Schnapp_v_Bacon.pdf)
+
 ### Motivation
 This project attempts to implement the Degrees of Kevin Bacon game. Its was the discrete math course I took during the summer of 2022. Most of the algorithms and concepts implemented here come directly from that course.
 
