@@ -5,7 +5,7 @@ Noah Schnapp (the Stranger Thing's actor) is from my hometown, so a lot of my an
 ![Noah Schnapp vs Kevin Bacon's Centrality](https://github.com/adam-wasserman/Degrees_of_Separation/blob/main/graphs/Schnapp_v_Bacon.png)
 
 ### Motivation
-This project attempts to implement the Degrees of Kevin Bacon game. Its was the discrete math course I took during the summer of 2022. Most of the algorithms and concepts implemented here come directly from that course.
+This project attempts to implement the Degrees of Kevin Bacon game. It was inspired by the discrete math course I took during the summer of 2022. Most of the algorithms and concepts implemented here come directly from that course.
 
 ### Usage
 Run the graph.py file to work with data from the top 250 movies and top 250 TV shows. To work with the entire IMDb database, you must download the file linked [here](https://drive.google.com/drive/folders/1ZJ-OMo0_KYH3gODvKqrtALVfaEoQWved?usp=sharing) (the file was too large for GitHub).
